@@ -1,6 +1,6 @@
 # Stock Prediction using Scikit-learn
 
-In this project the aim is to model stock price for prediction of price based on past data. You can see the program running in the following [Colaboratory notebook](https://colab.research.google.com/drive/125se_adfV5pdgygfHzWy8Np8HTMExaDN).
+In this project the aim is to model stock price for prediction of price based on past data. You can see the program running in the following [Colaboratory notebook](https://colab.research.google.com/drive/125se_adfV5pdgygfHzWy8Np8HTMExaDN) or in the [Jupyter Notebook](https://github.com/cristianlopezcano/Stock-Prediction-using-Scikit-learn/blob/master/notebook.ipynb) included in this repository (might not load depending on GitHub's mood!).
 
 To do this task I used 3 different types of regression models to see which one provides more accuracy:
 
